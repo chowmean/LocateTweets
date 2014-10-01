@@ -18,3 +18,6 @@ Run the python file "Extract....py" to get the location out of the tweets that a
 Copy the json file in the server directory where tweetanalysis.php is and run the server. 
 
   bash ~/Directory> Open localhost/project_name/tweetanalysis.php and see the results.
+
+
+![alt tag](https://raw.github.com/chowmean/LocateTweets/img.png)
