@@ -1,3 +1,8 @@
+# author : chowmean
+# gaurav.dev.iiitm@gmail.com
+# Dated: 1st Oct 2014
+# used Geopy library for extracting geocode out of addresses.
+
 			#library consisting of Sentiment analysis and NLTK 
 import json 					# library to process json
 from pprint import pprint 			# library to print json 

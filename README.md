@@ -21,3 +21,7 @@ Copy the json file in the server directory where tweetanalysis.php is and run th
 
 
 ![LocateTweets](https://raw.githubusercontent.com/chowmean/LocateTweets/master/tweetlocation.png)
+
+
+
+Author : @chowmean
