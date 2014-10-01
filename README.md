@@ -20,4 +20,4 @@ Copy the json file in the server directory where tweetanalysis.php is and run th
   bash ~/Directory> Open localhost/project_name/tweetanalysis.php and see the results.
 
 
-![LocateTweets](https://raw.github.com/chowmean/LocateTweets/tweetlocation.png)
+![LocateTweets](https://raw.githubusercontent.com/chowmean/LocateTweets/master/tweetlocation.png)
